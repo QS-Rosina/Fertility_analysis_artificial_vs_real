@@ -15,10 +15,10 @@ The project addresses the following questions:
 ## Data
 The data used for this project came from KAGGLE:
 
-###Couples artificial dataset
+### Couples artificial dataset
 The target variable represents pregnancy success. The dataset is also used to explore patterns in the data and to test whether a model trained on semen data can generalize to a different population and outcome.
 
-###Male-only real-world dataset 
+### Male-only real-world dataset 
 The semen dataset contains demographic and lifestyle information alongside a semen quality outcome.
 
 To enable cross-dataset comparisons, a subset of conceptually comparable variables is selected from both datasets. These include:
